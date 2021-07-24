@@ -1,5 +1,5 @@
 def points_distance(x, y):
-    print(“The distance between points is:” (x + y)**0.5)
+    print("The distance between points is:" (x + y)**0.5)
     return
 
 
